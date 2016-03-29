@@ -1,0 +1,11 @@
+Building a JSON REST API
+
+1. Review of Golang
+2. Why Go?
+3. Problem Statement: a simple lookup service that will check std_message 
+4. Read a file in and then lookup
+5. Enhance it to work on the web
+6. Using a library mux -- show go get
+7. Enhance it with JSON
+8. Create a docker image
+9. Upload to GCE
