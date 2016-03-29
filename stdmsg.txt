@@ -1,0 +1,5 @@
+1200 Container doesn't exist
+1300 Booking is full
+1303 Customs not cleared
+1409 Are you crazy?
+
